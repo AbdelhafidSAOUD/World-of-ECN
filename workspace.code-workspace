@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "D:\\2A\\S8\\Projet Robot EV3\\Programation\\Pince"
+		},
+		{
+			"path": "D:\\2A\\S8\\Projet Robot EV3\\Programation\\test_motors"
+		},
+		{
+			"path": "D:\\2A\\S8\\Projet Robot EV3\\Programation\\Suiveur de ligne"
+		},
+		{
+			"path": "D:\\2A\\S8\\Projet Robot EV3\\Programation\\Evaluation"
+		},
+		{
+			"path": "D:\\2A\\S8\\El ouafi"
+		}
+	],
+	"settings": {
+		"debug.openDebug": "neverOpen",
+		"python.languageServer": "None"
+	}
+}

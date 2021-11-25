@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/pc/Desktop/ProjetTPFinalNouveau30_10/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pc/Desktop/ProjetTPFinalNouveau30_10/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProjetTPfinal 12.4 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/pc/Desktop/ProjetTPFinalNouveau30_10/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProjetTPfinal 12.4 API'
